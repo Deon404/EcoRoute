@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
@@ -69,3 +70,7 @@ This project includes a Node/Express API (`/api/*`). When running as an APK, the
    - Or CLI (Windows): `cd android; .\gradlew assembleDebug`
 
 Output APK (debug): `android\app\build\outputs\apk\debug\app-debug.apk`
+=======
+# Eco-Route
+Smart Trip Planner - A production-ready full-stack web and Android application built with React (Vite + TypeScript), Node.js, Express, and MongoDB/PostgreSQL. Designed with scalable architecture and real-world deployment practices.
+>>>>>>> d0a36c04907ec781a356afd0defb1c50554ec177
