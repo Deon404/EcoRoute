@@ -13,8 +13,8 @@ This contains everything you need to run your app locally.
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+
+2. Run the app:
    `npm run dev`
 
 ## Optional: Real Transit Routing (No Docker)
@@ -70,4 +70,4 @@ Output APK (debug): `android\app\build\outputs\apk\debug\app-debug.apk`
 =======
 # Eco-Route
 Smart Trip Planner - A production-ready full-stack web and Android application built with React (Vite + TypeScript), Node.js, Express, and MongoDB/PostgreSQL. Designed with scalable architecture and real-world deployment practices.
->>>>>>> d0a36c04907ec781a356afd0defb1c50554ec177
+>>>>>>> 
