@@ -1,12 +1,12 @@
-<h2>Eco Route</h2>
+# Eco Route
 
 
-# Run and deploy your WebApp
+## Run and deploy your WebApp
 
 This contains everything you need to run your app locally.
 
 
-## Run Locally
+### Run Locally
 
 **Prerequisites:**  Node.js
 
@@ -17,7 +17,7 @@ This contains everything you need to run your app locally.
 2. Run the app:
    `npm run dev`
 
-## Optional: Real Transit Routing (No Docker)
+### Optional: Real Transit Routing (No Docker)
 
 This project can use OpenTripPlanner (OTP) for real transit itineraries (OSM + GTFS), instead of simulating bus routes.
 
@@ -29,7 +29,7 @@ This project can use OpenTripPlanner (OTP) for real transit itineraries (OSM + G
 
 If OTP is not running or fails, the app falls back to simulated bus and bus+walk routes automatically.
 
-## Vector Tiles + Offline Cache
+### Vector Tiles + Offline Cache
 
 This app supports a vector map mode for route display and offline-friendly caching:
 
