@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<h2>Eco Route</h2>
 
 
 # Run and deploy your WebApp
